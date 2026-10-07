@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="GJ">
+  <rect x="14" y="14" width="92" height="92" fill="#0b0b0b" fill-opacity=".82"/>
+  <g fill="none" stroke="#c9a45c">
+    <path d="M14 66 V14 H106 V106 H48" stroke-width="2"/>
+    <path d="M17 70 V103 H50" stroke-width="7" stroke-linecap="butt"/>
+  </g>
+  <text x="60" y="76" text-anchor="middle" font-family="'Cormorant Garamond','Times New Roman',serif" font-size="46" font-weight="500" fill="#efe9dc" letter-spacing="1">GJ</text>
+</svg>
